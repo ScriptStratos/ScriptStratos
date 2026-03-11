@@ -1,32 +1,38 @@
-# Alex Stratos
+# Hi there, I'm Alex! 👋
 
-I'm a software engineer focused on large-scale web data extraction and pipeline engineering. I build scraping infrastructure that handles millions of requests per day — from distributed crawlers to anti-bot bypass systems and structured data pipelines.
+### 🚀 About Me
 
-Most of my work lives at the intersection of reliability engineering and data engineering: keeping scrapers alive, keeping data clean, and keeping costs low.
+I am a passionate **Web Scraping & Data Engineering Expert** focused on building high-performance, distributed systems that solve complex data extraction problems at scale. My expertise lies in **Distributed Crawling**, **Anti-Bot Bypass**, and **Automated Data Pipelines**.
 
-## Current Focus
+### 🛠 Tech Stack
 
-- Scaling distributed scraping systems to handle 10M+ pages/day with minimal infrastructure cost
-- Building intelligent proxy and session management layers that adapt to anti-bot countermeasures
-- Researching ML-assisted CAPTCHA solving and browser fingerprint evasion techniques
+- **Languages:** Python, Go, SQL, Bash
+- **Scraping Frameworks:** Playwright, Scrapy, Selenium, BeautifulSoup4
+- **Tools:** Docker, Kubernetes, Redis, Celery, Git
+- **Libraries:** asyncio, httpx, aiohttp, NumPy, Pandas
 
-## Tech Stack
+### 🏗 Current Projects
 
-| Layer | Tools |
-|---|---|
-| **Scraping** | Playwright, Scrapy, httpx, Selenium |
-| **Async / Concurrency** | asyncio, aiohttp, Celery, Redis |
-| **Data** | PostgreSQL, MongoDB, Parquet, Apache Kafka |
-| **Infrastructure** | Docker, Kubernetes, AWS (EC2, S3, Lambda) |
-| **ML / CV** | TensorFlow, OpenCV, scikit-learn |
-| **Languages** | Python, Go, Bash |
+- **[scrape-master](https://github.com/ScriptStratos/scrape-master):** A distributed, fault-tolerant web scraping framework for large-scale data extraction.
+- **[proxy-rotator](https://github.com/ScriptStratos/proxy-rotator):** Intelligent proxy rotator with automatic IP banning and user-agent simulation.
+- **[data-harvester](https://github.com/ScriptStratos/data-harvester):** A tool for extracting structured data from dynamic, JS-heavy sites using headless browsers.
 
-## Projects
+### 📊 GitHub Stats
 
-| Repo | Description |
-|---|---|
-| [scrape-master](https://github.com/ScriptStratos/scrape-master) | Distributed, fault-tolerant web scraping framework |
-| [proxy-rotator](https://github.com/ScriptStratos/proxy-rotator) | Intelligent proxy rotation with anti-ban logic |
-| [data-harvester](https://github.com/ScriptStratos/data-harvester) | Headless browser scraping for JS-heavy sites |
-| [captcha-breaker](https://github.com/ScriptStratos/captcha-breaker) | Deep learning CAPTCHA solver for scraping pipelines |
-| [diff-tracker](https://github.com/ScriptStratos/diff-tracker) | Website change detection and alerting service |
+<p align="left">
+<a href="https://github.com/ScriptStratos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ScriptStratos&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/ScriptStratos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptStratos&layout=compact&theme=radical" />
+</a>
+</p>
+
+### 📫 How to reach me
+
+- **Twitter:** [@AlexStratosDev](https://twitter.com/AlexStratosDev)
+- **Email:** eLonenoo@protonmail.com
+- **LinkedIn:** [Alex Stratos](https://linkedin.com/in/alexstratos)
+
+---
+*“Data is the new oil, but only if you know how to extract it.”*
